@@ -1,0 +1,11 @@
+{
+  "name": "grunt-for-stylus",
+  "version": "0.0.0",
+  "description": "Grunt for Stylus",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kaosf/grunt-for-stylus.git"
+  },
+  "author": "ka",
+  "license": "MIT"
+}
