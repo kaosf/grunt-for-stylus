@@ -16,3 +16,8 @@ grunt
 ```
 
 `design.css` and `style.css` will be generated.
+
+## References
+
+* [Stylus](http://learnboost.github.io/stylus/)
+* [gruntjs/grunt-contrib-stylus](https://github.com/gruntjs/grunt-contrib-stylus)
